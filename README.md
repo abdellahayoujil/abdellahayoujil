@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayj" height="30" width="40" /></a>
+<a href="https://x.com/ABDELLAH_333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23016551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23016551" height="30" width="40" /></a>
-<a href="https://fb.com/abdellah âÿj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdellah âÿj" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdo.abdalah.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdellah âÿj" height="30" width="40" /></a>
 <a href="https://instagram.com/abdellahayj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdellahayj" height="30" width="40" /></a>
 <a href="https://discord.gg/abdellah332_79353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdellah332_79353" height="30" width="40" /></a>
 </p>
