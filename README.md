@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdellahayoujil&label=Profile%20views&color=0e75b6&style=flat" alt="abdellahayoujil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ayj" target="blank"><img src="https://img.shields.io/twitter/follow/ayj?logo=twitter&style=for-the-badge" alt="ayj" /></a> </p>
+<p align="left"> <a href="https://x.com/ABDELLAH_333" target="blank"><img src="https://img.shields.io/twitter/follow/ayj?logo=twitter&style=for-the-badge" alt="ayj" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot and next js**
 
